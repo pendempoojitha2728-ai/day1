@@ -1,2 +1,2 @@
-Python-Day1
+Python-day1
 inputs from user printing them, data types and variables, type check, simple operation programs
